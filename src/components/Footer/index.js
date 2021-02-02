@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-    Cristina Ruiz 2020
+    Cruz Lopez 2021
     </footer>
   );
 }

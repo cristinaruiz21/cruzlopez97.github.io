@@ -1,5 +1,5 @@
 import React from "react";
-import Picture from "../../images/ProfilePic.jpg";
+import Picture from "../../images/Cruz5.jpg";
 
 
 function ProfPic() {
