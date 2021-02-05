@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.burning-glass.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://www.burning-glass.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>
+<script type="text/javascript">
+_linkedin_partner_id = "1388914";
+window.​_linkedin_data_partner_ids = window.​_linkedin_data_partner_ids || [];
+window.​_linkedin_data_partner_ids.​push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.​getElementsByTagName("script")[0];
+var b = document.​createElement("script");
+b.​type = "text/javascript";b.​async = true;
+b.​src = "https://snap.​licdn.​com/li.​lms-analytics/insight.​min.​js" [https://snap.​licdn.​com/li.​lms-analytics/insight.​min.​js%22];
+s.​parentNode.​insertBefore(b, s);})();
+</script>
+<noscript>
+	
+<img height="1" width="1" style="display:​none;" alt="" src="https://px.​ads.​linkedin.​com/collect/?pid=1388914&fmt=gif" [https://px.​ads.​linkedin.​com/collect/?pid=1388914&fmt=gif%22] />
+</noscript>
+	
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Coding Skills in the Job Market | Burning Glass Technologies</title>
+	<meta name="description" content="Beyond Point and Click: The Expanding Demand for Coding Skills in the Job Market | Burning Glass job market research report" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.burning-glass.com/research-project/coding-skills/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Coding Skills in the Job Market | Burning Glass Technologies" />
+	<meta property="og:description" content="Beyond Point and Click: The Expanding Demand for Coding Skills in the Job Market | Burning Glass job market research report" />
+	<meta property="og:url" content="https://www.burning-glass.com/research-project/coding-skills/" />
+	<meta property="og:site_name" content="Burning Glass Technologies" />
+	<meta property="article:publisher" content="https://www.facebook.com/Burning-Glass-Technologies-160957023926436" />
+	<meta property="article:modified_time" content="2018-08-23T18:25:44+00:00" />
+	<meta property="og:image" content="https://www.burning-glass.com/wp-content/uploads/coding_screen_400x300-e1535048737568.jpg" />
+	<meta property="og:image:width" content="400" />
+	<meta property="og:image:height" content="267" />
+	<meta name="twitter:label1" content="Est. reading time">
+	<meta name="twitter:data1" content="5 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.burning-glass.com/#website","url":"https://www.burning-glass.com/","name":"Burning Glass Technologies","description":"Careers In Focus","potentialAction":[{"@type":"SearchAction","target":"https://www.burning-glass.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.burning-glass.com/research-project/coding-skills/#primaryimage","inLanguage":"en-US","url":"https://www.burning-glass.com/wp-content/uploads/coding_screen_400x300-e1535048737568.jpg","width":400,"height":267,"caption":"Burning Glass data powers job portals in Greater London, New South Wales"},{"@type":"WebPage","@id":"https://www.burning-glass.com/research-project/coding-skills/#webpage","url":"https://www.burning-glass.com/research-project/coding-skills/","name":"Coding Skills in the Job Market | Burning Glass Technologies","isPartOf":{"@id":"https://www.burning-glass.com/#website"},"primaryImageOfPage":{"@id":"https://www.burning-glass.com/research-project/coding-skills/#primaryimage"},"datePublished":"2016-06-08T13:05:31+00:00","dateModified":"2018-08-23T18:25:44+00:00","description":"Beyond Point and Click: The Expanding Demand for Coding Skills in the Job Market | Burning Glass job market research report","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.burning-glass.com/research-project/coding-skills/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Burning Glass Technologies &raquo; Feed" href="https://www.burning-glass.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Burning Glass Technologies &raquo; Comments Feed" href="https://www.burning-glass.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Burning Glass Technologies &raquo; iCal Feed" href="https://www.burning-glass.com/events/?ical=1" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.14.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+    (window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+	var mi_version         = '7.14.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-20870520-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-20870520-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.burning-glass.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi Child v.3.0.85.1509722306" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://www.burning-glass.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.15' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://www.burning-glass.com/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.15' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.burning-glass.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.burning-glass.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.burning-glass.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='geotarget-css'  href='https://www.burning-glass.com/wp-content/plugins/geotargeting-pro/public/css/geotarget-public.css?ver=2.6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_tabs_pro_font-icon-picker-glyphicon_style-css'  href='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/picker/glyphicon.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_tabs_pro_font-icon-picker-dashicons_style-css'  href='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/css/mul-type-icon-picker/picker/dashicons.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_tabs_pro-font-awesome-front-css'  href='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/css/font-awesome/css/font-awesome.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_tabs_pro_bootstrap-front-css'  href='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/css/bootstrap-front.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_tabs_pro_animate-css'  href='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/css/animate.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_tabs_pro_scrollbar_style-css'  href='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/css/scrollbar/jquery.mCustomScrollbar.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A%2C300%2C400%2C700&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcf7-redirect-script-frontend-css'  href='https://www.burning-glass.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='monsterinsights-popular-posts-style-css'  href='https://www.burning-glass.com/wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css?ver=7.14.0' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='https://www.burning-glass.com/wp-content/themes/Divi/style.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://www.burning-glass.com/wp-content/themes/BurningGlass2/style.css?ver=3.0.85.1509722306' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-compiled-options-ect-css'  href='https://www.burning-glass.com/wp-content/uploads/titan-framework-ect-css.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-google-webfont-monda-css'  href='//fonts.googleapis.com/css?family=Monda%3A500%2C400&#038;subset=latin%2Clatin-ext&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-google-webfont-open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3Ainherit%2Cinherititalic%2C400&#038;subset=latin%2Clatin-ext&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.burning-glass.com/wp-content/tablepress-combined.min.css?ver=23' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.burning-glass.com/wp-includes/css/dashicons.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://www.burning-glass.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css'  href='https://www.burning-glass.com/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-clean-white-css'  href='https://www.burning-glass.com/wp-content/plugins/ubermenu/pro/assets/css/skins/cleanwhite.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-css'  href='https://www.burning-glass.com/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.min.css?ver=4.3' type='text/css' media='all' />
+<script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.burning-glass.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.14.0' id='monsterinsights-frontend-script-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.burning-glass.com\/wp-admin\/admin-ajax.php","nonce":"52f5ebea24","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2' id='cookie-notice-front-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/js/bootstrap-tabcollapse.js?ver=5.5.3' id='wpsm_tabs_pro_bootstrap-collapse-front-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/js/scrollbar/jquery.mCustomScrollbar.concat.min.js?ver=5.5.3' id='wpsm_tabs_pro_scrollbar_script-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.5' id='gtm4wp-form-move-tracker-js'></script>
+<link rel="https://api.w.org/" href="https://www.burning-glass.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.burning-glass.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.burning-glass.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.burning-glass.com/?p=2673' />
+<link rel="alternate" type="application/json+oembed" href="https://www.burning-glass.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.burning-glass.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&#038;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<style id="ubermenu-custom-generated-css">
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+ .ubermenu-main .ubermenu-item-level-0 > .ubermenu-target { font-size:14px; color:#444444; }
+ .ubermenu.ubermenu-main .ubermenu-item-level-0:hover > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target { color:#2ea3f2; }
+ .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target { color:#2ea3f2; }
+ .ubermenu-main .ubermenu-submenu.ubermenu-submenu-drop { color:#444444; }
+ .ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target, .ubermenu-main .ubermenu-tab > .ubermenu-target { font-size:14px; }
+ .ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target { color:#444444; }
+ .ubermenu-main .ubermenu-submenu .ubermenu-item-header.ubermenu-current-menu-item > .ubermenu-target { color:#2ea3f2; }
+ .ubermenu-main .ubermenu-item-normal > .ubermenu-target { color:#444444; font-size:14px; }
+ .ubermenu.ubermenu-main .ubermenu-item-normal > .ubermenu-target:hover, .ubermenu.ubermenu-main .ubermenu-item-normal.ubermenu-active > .ubermenu-target { color:#2ea3f2; }
+ .ubermenu-main .ubermenu-item-normal.ubermenu-current-menu-item > .ubermenu-target { color:#2ea3f2; }
+ .ubermenu-main, .ubermenu-main .ubermenu-target, .ubermenu-main .ubermenu-nav .ubermenu-item-level-0 .ubermenu-target, .ubermenu-main div, .ubermenu-main p, .ubermenu-main input { font-family:'Open Sans', sans-serif; font-weight:400; }
+
+
+/** UberMenu Custom Menu Item Styles (Menu Item Settings) **/
+/* 10341 */  .ubermenu .ubermenu-item.ubermenu-item-10341.ubermenu-active > .ubermenu-target, .ubermenu .ubermenu-item.ubermenu-item-10341:hover > .ubermenu-target, .ubermenu .ubermenu-submenu .ubermenu-item.ubermenu-item-10341.ubermenu-active > .ubermenu-target, .ubermenu .ubermenu-submenu .ubermenu-item.ubermenu-item-10341:hover > .ubermenu-target { color:#2ea3f2; }
+/* 10340 */  .ubermenu .ubermenu-item.ubermenu-item-10340.ubermenu-active > .ubermenu-target, .ubermenu .ubermenu-item.ubermenu-item-10340:hover > .ubermenu-target, .ubermenu .ubermenu-submenu .ubermenu-item.ubermenu-item-10340.ubermenu-active > .ubermenu-target, .ubermenu .ubermenu-submenu .ubermenu-item.ubermenu-item-10340:hover > .ubermenu-target { color:#2ea3f2; }
+/* 10342 */  .ubermenu .ubermenu-item.ubermenu-item-10342.ubermenu-active > .ubermenu-target, .ubermenu .ubermenu-item.ubermenu-item-10342:hover > .ubermenu-target, .ubermenu .ubermenu-submenu .ubermenu-item.ubermenu-item-10342.ubermenu-active > .ubermenu-target, .ubermenu .ubermenu-submenu .ubermenu-item.ubermenu-item-10342:hover > .ubermenu-target { color:#2ea3f2; }
+
+/* Status: Loaded from Transient */
+
+</style><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.burning-glass.com"><link rel="https://theeventscalendar.com/" href="https://www.burning-glass.com/wp-json/tribe/events/v1/" />
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"project","pagePostType2":"single-project","pagePostAuthor":"Burning Glass Technologies"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5HVT82J');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="https://burningglass.com/wp-content/uploads/bgt-favicon.png" /><meta name="google-site-verification" content="cQrsxnjTC1cehshSlCzIdqtzaRyfOYdoNS6DDB1iGGc" />
+
+
+<script>
+
+document.addEventListener('click', function (event) {
+    if ( event.target.href.indexOf(".pdf") > -1) {
+        //alert('pdf!' + event.target.href);
+		_ga(['send','event','Download','PDF', event.target.href]);
+    }
+}, false);
+	
+	
+	
+	// In the above case, ‘Download’ is the event Category, ‘PDF’ is event Action and the ‘download URL’ is the event Label.
+</script>
+<link rel="icon" href="https://www.burning-glass.com/wp-content/uploads/cropped-site-icon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.burning-glass.com/wp-content/uploads/cropped-site-icon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.burning-glass.com/wp-content/uploads/cropped-site-icon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.burning-glass.com/wp-content/uploads/cropped-site-icon-1-270x270.png" />
+<style id="et-divi-customizer-global-cached-inline-styles">body{line-height:1.8em}.container,.et_pb_row,.et_pb_slider .et_pb_container,.et_pb_fullwidth_section .et_pb_title_container,.et_pb_fullwidth_section .et_pb_title_featured_container,.et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container{max-width:1200px}.et_boxed_layout #page-container,.et_fixed_nav.et_boxed_layout #page-container #top-header,.et_fixed_nav.et_boxed_layout #page-container #main-header,.et_boxed_layout #page-container .container,.et_boxed_layout #page-container .et_pb_row{max-width:1360px}#top-header,#et-secondary-nav li ul{background-color:#ffffff}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#0a0a0a}.et_search_form_container input::-moz-placeholder{color:#0a0a0a}.et_search_form_container input::-webkit-input-placeholder{color:#0a0a0a}.et_search_form_container input:-ms-input-placeholder{color:#0a0a0a}#top-header,#top-header a,#et-secondary-nav li li a,#top-header .et-social-icon a:before{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none}#top-menu li a{font-size:12px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:12px!important}#top-menu li a,.et_search_form_container input{font-weight:normal;font-style:normal;text-transform:uppercase;text-decoration:none}.et_search_form_container input::-moz-placeholder{font-weight:normal;font-style:normal;text-transform:uppercase;text-decoration:none}.et_search_form_container input::-webkit-input-placeholder{font-weight:normal;font-style:normal;text-transform:uppercase;text-decoration:none}.et_search_form_container input:-ms-input-placeholder{font-weight:normal;font-style:normal;text-transform:uppercase;text-decoration:none}#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#ffffff}.footer-widget{color:#ffffff}#et-footer-nav{background-color:rgba(0,0,0,0.05)}#footer-bottom{background-color:rgba(33,33,33,0.32)}#footer-bottom .et-social-icon a{font-size:10px}#footer-bottom .et-social-icon a{color:#212121}body .et_pb_button,.woocommerce a.button.alt,.woocommerce-page a.button.alt,.woocommerce button.button.alt,.woocommerce-page button.button.alt,.woocommerce input.button.alt,.woocommerce-page input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce-page #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-message a.button.wc-forward{font-size:14px;background:#2ea2f1;border-width:0px!important;border-radius:1px;font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none;}body.et_pb_button_helper_class .et_pb_button,body.et_pb_button_helper_class .et_pb_module.et_pb_button,.woocommerce.et_pb_button_helper_class a.button.alt,.woocommerce-page.et_pb_button_helper_class a.button.alt,.woocommerce.et_pb_button_helper_class button.button.alt,.woocommerce-page.et_pb_button_helper_class button.button.alt,.woocommerce.et_pb_button_helper_class input.button.alt,.woocommerce-page.et_pb_button_helper_class input.button.alt,.woocommerce.et_pb_button_helper_class #respond input#submit.alt,.woocommerce-page.et_pb_button_helper_class #respond input#submit.alt,.woocommerce.et_pb_button_helper_class #content input.button.alt,.woocommerce-page.et_pb_button_helper_class #content input.button.alt,.woocommerce.et_pb_button_helper_class a.button,.woocommerce-page.et_pb_button_helper_class a.button,.woocommerce.et_pb_button_helper_class button.button,.woocommerce-page.et_pb_button_helper_class button.button,.woocommerce.et_pb_button_helper_class input.button,.woocommerce-page.et_pb_button_helper_class input.button,.woocommerce.et_pb_button_helper_class #respond input#submit,.woocommerce-page.et_pb_button_helper_class #respond input#submit,.woocommerce.et_pb_button_helper_class #content input.button,.woocommerce-page.et_pb_button_helper_class #content input.button{color:rgba(255,255,255,0.97)}body .et_pb_button:after,.woocommerce a.button.alt:after,.woocommerce-page a.button.alt:after,.woocommerce button.button.alt:after,.woocommerce-page button.button.alt:after,.woocommerce input.button.alt:after,.woocommerce-page input.button.alt:after,.woocommerce #respond input#submit.alt:after,.woocommerce-page #respond input#submit.alt:after,.woocommerce #content input.button.alt:after,.woocommerce-page #content input.button.alt:after,.woocommerce a.button:after,.woocommerce-page a.button:after,.woocommerce button.button:after,.woocommerce-page button.button:after,.woocommerce input.button:after,.woocommerce-page input.button:after,.woocommerce #respond input#submit:after,.woocommerce-page #respond input#submit:after,.woocommerce #content input.button:after,.woocommerce-page #content input.button:after{font-size:22.4px}body .et_pb_button:hover,.woocommerce a.button.alt:hover,.woocommerce-page a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce-page button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce-page input.button.alt:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce-page #respond input#submit.alt:hover,.woocommerce #content input.button.alt:hover,.woocommerce-page #content input.button.alt:hover,.woocommerce a.button:hover,.woocommerce-page a.button:hover,.woocommerce button.button:hover,.woocommerce-page button.button:hover,.woocommerce input.button:hover,.woocommerce-page input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce-page #respond input#submit:hover,.woocommerce #content input.button:hover,.woocommerce-page #content input.button:hover{background:#62b9f5!important;border-radius:0px}h1,h2,h3,h4,h5,h6,.et_quote_content blockquote p,.et_pb_slide_description .et_pb_slide_title{line-height:1.6em}@media only screen and (min-width:981px){.et_pb_section{padding:1% 0}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_fullwidth_section{padding:0}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:40px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:40px}.et_header_style_split .centered-inline-logo-wrap{width:80px;margin:-80px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:80px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:80px}.et_header_style_centered #top-menu>li>a{padding-bottom:14px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:31px 0 31px 0!important}.et_header_style_centered #main-header .logo_container{height:80px}#logo{max-height:70%}.et_pb_svg_logo #logo{height:70%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:14.4px}.et-fixed-header#top-header,.et-fixed-header#top-header #et-secondary-nav li ul{background-color:#ffffff}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#0a0a0a!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#0a0a0a!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#0a0a0a!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#0a0a0a!important}}@media only screen and (min-width:1500px){.et_pb_row{padding:30px 0}.et_pb_section{padding:15px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:90px}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_fullwidth_section{padding:0}}.et_pb_countdown_timer .title{font-size:23px}.et_pb_column_1_3 .et_pb_countdown_timer .title,.et_pb_column_1_4 .et_pb_countdown_timer .title{font-size:19.461538458px}.et_pb_section.no-pad .et_pb_row{padding:0px}.et_pb_section.no-top-pad{padding-top:0px}.et_pb_section.no-top-pad .et_pb_row{padding-top:0px}#top-menu li li a,.fullwidth-menu li li a{padding:0 20px}#top-header a{background-color:#e46e21;padding:10px;margin-bottom:10px}.screen-reader-text{display:none}input#s{padding:6px;border-radius:2px}input#searchsubmit{border:0px solid #000000;color:#FFFFFF;background-color:#666666;padding:7px;border-radius:2px}form#searchform{margin-left:20px;float:right}@media screen and (min-width:480px){#top-header .container{padding-bottom:5px}#et-secondary-menu .et-social-icons{margin-top:6px}}.et_pb_widget_area_left{border:0px;padding:0px}.et_pb_gutters3 .et_pb_column_1_4 .et_pb_widget{margin-bottom:0}#footer-widgets .footer-widget .et_pb_social_media_follow li{padding-left:0}#footer-widgets .footer-widget .et_pb_social_media_follow li:before{display:none}.btg_button{background:#2EA2F1;color:white;padding:10px;font-size:12px;text-transform:uppercase;font-weight:bold;display:inline-block}.btg_button:hover{background-color:#62b9f5}.btg_speaktoarep{background:#e46e21;color:white;padding:10px;font-size:12px;text-transform:uppercase;font-weight:bold;display:inline-block}.btg_speaktoarep:hover{background-color:#ec9963}.wpcf7-form p{margin:0;padding:0}#wpsm_tab_container_7893{margin-top:0!important}.wpcf7-form-control.wpcf7-text,.wpcf7-form-control.wpcf7-textarea,.wpcf7-form-control.wpcf7-select{width:100%;max-width:100%;margin:0.5em 0;padding:4px;border-radius:2px}.wpcf7-form-control.wpcf7-submit{background-color:#e46e21;border:solid 1px #e46e21;font-size:14px;color:#fff;font-weight:700;padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px}.post_tags_container,.jp-relatedposts{width:80%;max-width:1200px;margin:0 auto!important}.post_tags_container{padding-top:1em}.datepicker{z-index:100000!important}.wp-image-6239{padding-right:20px}.et_pb_jt_filterable_grid_item_text,.et_pb_jt_filterable_grid_item_button_container{margin:20px}#footer-widgets .footer-widget li a:hover{color:#2ea3f2}.et_header_style_left .logo_container{width:50%;padding-top:20px}span.logo_helper{vertical-align:top}#logo{max-height:100%}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:15px}.et_pb_jt_filterable_grid_item_post_title a:hover{color:#2ea3f2}.et_pb_jt_filterable_grid_item_post_meta a:hover{color:#75bff1}.vertical-align-blurb .et_pb_blurb_container{vertical-align:middle}.vertical-align-blurb .et_pb_blurb h4{padding-bottom:0}@media only screen and (max-width:1405px) and (min-width:980px){#logo{max-height:65%;float:left}#top-menu-nav{display:none}}@media only screen and (max-width:1100px) and (min-width:980px){#et_mobile_nav_menu{display:block}}</style>	<script src="//code.tidio.co/ioxfynq8ym6wjtgspq5emmx7tuqomrjy.js"></script>
+</head>
+<body data-rsssl=1 class="project-template-default single single-project postid-2673 cookies-not-set tribe-no-js et_button_no_icon et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_secondary_nav_only_menu et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et_minified_js et_minified_css">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HVT82J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<div id="page-container">
+
+			<div id="top-header">
+			<div class="container clearfix">
+
+			
+				<div id="et-secondary-menu">
+				<ul id="et-secondary-nav" class="menu"><li class="head_search fa fa-search menu-item menu-item-type-custom menu-item-object-custom menu-item-11362"><a href="/search">Search</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14314"><a href="https://www.burning-glass.com/contact/">Find Out More</a></li>
+</ul>				<form role="search" method="get" id="searchform" class="searchform" action="https://www.burning-glass.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>	
+				</div> <!-- #et-secondary-menu -->
+
+			</div> <!-- .container -->
+		</div> <!-- #top-header -->
+	
+	
+		<header id="main-header" data-height-onload="80">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.burning-glass.com/">
+						<img src="https://burningglass.com/wp-content/uploads/bgt-logo.png" alt="Burning Glass Technologies" id="logo" data-height-percentage="70" />
+					</a>
+				</div>
+									<div id="et-top-navigation" data-height="80" data-fixed-height="40">
+    					    					
+<!-- UberMenu [Configuration:main] [Theme Loc:] [Integration:api] -->
+<a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-clean-white ubermenu-loc- ubermenu-responsive-toggle-content-align-right ubermenu-responsive-toggle-align-right " data-ubermenu-target="ubermenu-main-7121"><i class="fa fa-bars"></i>Menu</a><nav id="ubermenu-main-7121" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-7121 ubermenu-responsive ubermenu-responsive-default ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-shift ubermenu-trigger-hover_intent ubermenu-skin-clean-white  ubermenu-bar-align-right ubermenu-items-align-left ubermenu-disable-submenu-scroll ubermenu-sub-indicators ubermenu-retractors-responsive"><ul id="ubermenu-nav-main-7121" class="ubermenu-nav"><li id="menu-item-12546" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-12546 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/solutions/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Solutions</span></a><ul  class="ubermenu-submenu ubermenu-submenu-id-12546 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><li id="menu-item-12547" class="fuber_head ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-12547 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-stack" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">By Solution</span></a><ul  class="ubermenu-submenu ubermenu-submenu-id-12547 ubermenu-submenu-type-auto ubermenu-submenu-type-stack"  ><li id="menu-item-12548" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12548 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/products/labor-insight/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/labor_insight_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/labor_insight_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/labor_insight_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/labor_insight_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="Labor Insight real-time job market data analysis"  /><span class="ubermenu-target-title ubermenu-target-text">Labor Insight</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Labor market data at your fingertips to support critical decisions</div></li><li id="menu-item-12549" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12549 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/products/program-insight-2/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/program_insight_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/program_insight_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/program_insight_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/program_insight_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="Program Insight"  /><span class="ubermenu-target-title ubermenu-target-text">Program Insight</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Data driven solutions for academic planning and program development</div></li><li id="menu-item-12550" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12550 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/products/career-insight/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/career_insight_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/career_insight_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/career_insight_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/career_insight_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="Career Insight"  /><span class="ubermenu-target-title ubermenu-target-text">Career Insight</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Career data to show the career value of your programs and boost lead conversion</div></li><li id="menu-item-12551" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12551 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/products/nova/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/nova_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/nova_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/nova_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/nova_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="NOVA job feed"  /><span class="ubermenu-target-title ubermenu-target-text">NOVA</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Real-time jobs feed from the world’s largest provider of labor market data</div></li><li id="menu-item-12552" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12552 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/products/lens-suite/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/lens_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/lens_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/lens_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/lens_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="LENS suite for resume parsing, searching and matching"  /><span class="ubermenu-target-title ubermenu-target-text">Lens Suite</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">The world’s most accurate resume parsing, searching, and matching technology</div></li><li id="menu-item-12553" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12553 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/products/burning-glass-apis/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/apis@4x-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/apis@4x-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/apis@4x.png 100w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="Burning Glass API solutions"  /><span class="ubermenu-target-title ubermenu-target-text">Burning Glass APIs</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Drive platform engagement, conversions and decision-making using job market insights</div></li><li id="menu-item-12554" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12554 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/job-market-data/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/app-research_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/app-research_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/app-research_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/app-research_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="app-research_icon_100X100_150ppi"  /><span class="ubermenu-target-title ubermenu-target-text">Applied Research</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Providing custom, in-depth job market data analysis for employers, policy makers, foundations, and higher education</div></li><li id="menu-item-14586" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-14586 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/products/wcc/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/2021/01/WCC-Icon-bGT-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/2021/01/WCC-Icon-bGT-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/2021/01/WCC-Icon-bGT-300x300.png 300w, https://www.burning-glass.com/wp-content/uploads/2021/01/WCC-Icon-bGT-1024x1024.png 1024w, https://www.burning-glass.com/wp-content/uploads/2021/01/WCC-Icon-bGT-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/2021/01/WCC-Icon-bGT-1080x1080.png 1080w, https://www.burning-glass.com/wp-content/uploads/2021/01/WCC-Icon-bGT.png 1200w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="WCC Icon bGT"  /><span class="ubermenu-target-title ubermenu-target-text">Workforce Command Center</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded">Actionable data providing solutions for supporting the short, medium, and long-term recovery for underemployed and displaced workers.</div></li></ul></li><li id="menu-item-12555" class="fuber_head ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-12555 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full ubermenu-has-submenu-stack" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">By Segment</span></a><ul  class="ubermenu-submenu ubermenu-submenu-id-12555 ubermenu-submenu-type-auto ubermenu-submenu-type-stack"  ><li id="menu-item-12557" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12557 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/solutions/education/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/education_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/education_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/education_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/education_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="education_icon_100X100_150ppi"  /><span class="ubermenu-target-title ubermenu-target-text">Education</span></a></li><li id="menu-item-12556" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12556 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/solutions/corporations/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/corp_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/corp_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/corp_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/corp_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="corp_icon_100X100_150ppi"  /><span class="ubermenu-target-title ubermenu-target-text">Business</span></a></li><li id="menu-item-12558" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12558 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/solutions/government-and-workforce/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/gov_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/gov_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/gov_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/gov_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="gov_icon_100X100_150ppi"  /><span class="ubermenu-target-title ubermenu-target-text">Government</span></a></li><li id="menu-item-12559" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12559 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-8" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-default ubermenu-item-layout-image_above" href="https://www.burning-glass.com/solutions/recruiting-and-staffing/"><img class="ubermenu-image ubermenu-image-size-rpwe-thumbnail ubermenu-image-lazyload" data-src="https://www.burning-glass.com/wp-content/uploads/recruiting_icon_100X100_150ppi-45x45.png" data-srcset="https://www.burning-glass.com/wp-content/uploads/recruiting_icon_100X100_150ppi-45x45.png 45w, https://www.burning-glass.com/wp-content/uploads/recruiting_icon_100X100_150ppi-150x150.png 150w, https://www.burning-glass.com/wp-content/uploads/recruiting_icon_100X100_150ppi.png 209w" data-sizes="(max-width: 45px) 100vw, 45px" width="45" height="45" alt="recruiting_icon_100X100_150ppi"  /><span class="ubermenu-target-title ubermenu-target-text">Recruiting</span></a></li></ul></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-12561" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-12561 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/about/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">About</span></a><ul  class="ubermenu-submenu ubermenu-submenu-id-12561 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-center"  ><li id="menu-item-12563" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12563 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/about/faq/"><span class="ubermenu-target-title ubermenu-target-text">FAQ</span></a></li><li id="menu-item-12564" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12564 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/about/in-the-news/"><span class="ubermenu-target-title ubermenu-target-text">In the News</span></a></li><li id="menu-item-12566" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12566 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/about/press/"><span class="ubermenu-target-title ubermenu-target-text">Press</span></a></li><li id="menu-item-12567" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12567 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/about/careers/"><span class="ubermenu-target-title ubermenu-target-text">Careers</span></a></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-12576" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-12576 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/research/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Research</span></a><ul  class="ubermenu-submenu ubermenu-submenu-id-12576 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><li id="menu-item-12578" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-12578 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-3-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">NEWS ITEMS</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><div class="ubermenu-column-id-11387">
+<div class="research_menu">
+<span class="menu_heading1">RESEARCH</span>
+<div class="et_pb_row" style="width:100%;padding-bottom:0"><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/research-project/visualizing-future-3d-skills-workforce/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/2021/01/Screen-Shot-2021-01-21-at-12.54.25-PM-400x250.png" class="attachment-400x250 size-400x250 wp-post-image" alt="EPIC 3D tech skills" loading="lazy" /><div class="p_content"><span class="menu_heading2">Visualizing the Future: 3D Technology Skills in the Workforce</span></a></div></article></div><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/research-project/good-jobs-bad-times/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/2020/10/pexels-andrea-piacquadio-3769021-400x250.jpg" class="attachment-400x250 size-400x250 wp-post-image" alt="" loading="lazy" /><div class="p_content"><span class="menu_heading2">Good Jobs in Bad Times</span></a></div></article></div><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/research-project/skills-mass-disruption/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-14-at-6.12.20-PM-400x250.png" class="attachment-400x250 size-400x250 wp-post-image" alt="" loading="lazy" /><div class="p_content"><span class="menu_heading2">Skills of Mass Disruption</span></a></div></article></div><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/research-project/bad-bets-high-cost-failing-programs/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-17-at-6.04.53-PM-e1605654436307-400x250.png" class="attachment-400x250 size-400x250 wp-post-image" alt="" loading="lazy" /><div class="p_content"><span class="menu_heading2">Bad Bets: The High Cost of Failing Programs in Higher Education</span></a></div></article></div></div>
+</div>
+<div class="seperator"></div>
+<div class="topnews_menu">
+<span class="menu_heading1">RESEARCH IN THE NEWS</span>
+<div class="et_pb_row" style="width:100%;padding-bottom:0"><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/forbes-rebuilding-employment-burning-glass-big-data-job-openings-reveal/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/news_swipe_450x300-1-400x250.jpg" class="attachment-400x250 size-400x250 wp-post-image" alt="" loading="lazy" /><div class="p_content"><span class="menu_heading2">Forbes: Rebuilding Employment: What Burning Glass Big Data On Job Openings Reveal</span></a></div></article></div><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/hechinger-report-pressure-mounts-universities-anticipate-demand-jobs/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/news_tablet_450x298-1-400x250.jpg" class="attachment-400x250 size-400x250 wp-post-image" alt="News" loading="lazy" /><div class="p_content"><span class="menu_heading2">The Hechinger Report: Pressure mounts for universities to anticipate in-demand jobs</span></a></div></article></div><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/wsj_career_ladders/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/iStock-483879243-400x250.jpg" class="attachment-400x250 size-400x250 wp-post-image" alt="In the News" loading="lazy" srcset="https://www.burning-glass.com/wp-content/uploads/iStock-483879243-400x250.jpg 400w, https://www.burning-glass.com/wp-content/uploads/iStock-483879243-1080x675.jpg 1080w" sizes="(max-width: 400px) 100vw, 400px" /><div class="p_content"><span class="menu_heading2">The Wall Street Journal: Can Companies Give Their Workers a New Skillset?</span></a></div></article></div><div class="et_pb_column et_pb_column_1_4 menux"><article class="et_pb_post"><a href="https://www.burning-glass.com/baltimore-tech-and-cyber-jobs-growth/"><img width="400" height="250" src="https://www.burning-glass.com/wp-content/uploads/news_tablet_450x350-1-1-400x250.jpg" class="attachment-400x250 size-400x250 wp-post-image" alt="Hot News" loading="lazy" /><div class="p_content"><span class="menu_heading2">Technically Baltimore: Drilling down on the numbers behind Baltimore&#8217;s tech and cyber jobs growth</span></a></div></article></div></div>
+</div>
+</div>
+</div></li><li id="menu-item-12579" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-12579 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Work With Burning Glass</span></a><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><p><span class="menu_heading1 blue">Work With Burning Glass</span>
+
+Our team works with higher education, workforce/economic development, and corporate professionals to discover cutting edge insights in today’s world. Contact us to begin conducting and analyzing research on your specific interests.</p>
+
+<p style="margin-top:15px"><a href="/job-market-data/" class="et_pb_button orange">WORK WITH US</a></p>
+<p><a href="/research/" class="readmore">More Research Reports >></a></p></div></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-12569" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12569 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/case-studies/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Case Studies</span></a></li><li id="menu-item-12570" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-12570 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega ubermenu-submenu-rtl" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="/events/list/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Events</span></a><ul  class="ubermenu-submenu ubermenu-submenu-id-12570 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-right_edge_item"  ><li id="menu-item-12571" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-12571 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="/events/list/"><span class="ubermenu-target-title ubermenu-target-text">All Events</span></a></li><li id="menu-item-12572" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-12572 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="/events/category/conferences/list/"><span class="ubermenu-target-title ubermenu-target-text">Conferences</span></a></li><li id="menu-item-12573" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-12573 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="/events/category/webinars/list/"><span class="ubermenu-target-title ubermenu-target-text">Live Webinars</span></a></li><li id="menu-item-14320" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-14320 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/webinar-library/"><span class="ubermenu-target-title ubermenu-target-text">Webinar Library</span></a></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-12574" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12574 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/contact/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Contact</span></a></li><li id="menu-item-12575" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-12575 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.burning-glass.com/blog/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Blog</span></a></li></ul></nav>
+<!-- End UberMenu -->
+					</div>
+							</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://www.burning-glass.com/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+
+<div id="main-content">
+
+
+			
+				<article id="post-2673" class="post-2673 project type-project status-publish has-post-thumbnail hentry project_category-coding-skills project_category-hybrid-jobs project_category-liberal-arts project_category-research project_tag-careers project_tag-coding project_tag-hybrid-jobs project_tag-it project_tag-job-market project_tag-programming project_tag-skills project_tag-software-development">
+
+				
+					<div class="entry-content">
+					<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-url="https://www.burning-glass.com/research-project/coding-skills/" data-a2a-title="Coding Skills"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></div></div><div class="et_pb_section et_pb_section_0 et_pb_with_background et_pb_fullwidth_section et_section_regular">
+				
+				
+				
+				
+					<section class="et_pb_fullwidth_header et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_fullwidth_header_0">
+				
+				
+				<div class="et_pb_fullwidth_header_container center">
+					<div class="header-content-container center">
+					<div class="header-content">
+						
+						<h1 class="et_pb_module_header">Beyond Point and Click</h1>
+						<span class="et_pb_fullwidth_header_subhead">The Expanding Demand for Coding Skills</span>
+						<div class="et_pb_header_content_wrapper"><p>&nbsp;</p></div>
+						
+					</div>
+				</div>
+					
+				</div>
+				<div class="et_pb_fullwidth_header_overlay"></div>
+				<div class="et_pb_fullwidth_header_scroll"></div>
+			</section>
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_section_specialty">
+				
+				
+				
+				<div class="et_pb_row">
+					<div class="et_pb_column et_pb_column_1_3  et_pb_column_0 et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et-waypoint et_animated et_pb_image_0 et_always_center_on_mobile">
+				
+				
+				<a href="/wp-content/uploads/Beyond_Point_Click_final.pdf" target="_blank"><span class="et_pb_image_wrap"><img src="https://www.burning-glass.com/wp-content/uploads/Beyond_Point_Click_cover.png" alt="Cover: Beyond Point and Click: The Expanding Demand for Coding Skills" /></span></a>
+			</div><div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et_pb_divider_position_"><div class="et_pb_divider_internal"></div></div><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_blurb_0 et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/wp-content/uploads/Beyond_Point_Click_final.pdf" target="_blank"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top" style="color: #e56e21;"></span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/wp-content/uploads/Beyond_Point_Click_final.pdf" target="_blank">Download Report</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>Full Report</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_blurb_1 et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/wp-content/uploads/WhyShouldStudentsLearntoCode.jpg" target="_blank"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top" style="color: #e56e21;"></span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/wp-content/uploads/WhyShouldStudentsLearntoCode.jpg" target="_blank">Coding Skills Infographic</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>&nbsp;</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_blurb_2 et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/blog/why-should-students-learn-to-code-opportunity/" target="_blank"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top" style="color: #e56e21;">h</span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/blog/why-should-students-learn-to-code-opportunity/" target="_blank">From Our Blog</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>Why Should Students Learn to Code? Opportunity</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_code et_pb_module  et_pb_code_0">
+				
+				
+				<div class="et_pb_code_inner">
+					<div role="form" class="wpcf7" id="wpcf7-f4626-p2673-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/research-project/coding-skills/#wpcf7-f4626-p2673-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4626" />
+<input type="hidden" name="_wpcf7_version" value="5.3.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4626-p2673-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="2673" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<p>Subscribe to our newsletter</p>
+<p><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Enter e-mail" /></span><span id="wpcf7-601ca088e02f4" class="wpcf7-form-control-wrap NL-research-HP-wrap" style="display:none !important; visibility:hidden !important;"><label  class="hp-message">Please leave this field empty.</label><input class="wpcf7-form-control wpcf7-text"  type="text" name="NL-research-HP" value="" size="40" tabindex="-1" autocomplete="nope" /></span></p>
+<p class="recaptcha-badge">This site is protected by reCAPTCHA and the Google<br><br />
+<a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.</p>
+<p><input type="submit" value="Go" class="wpcf7-form-control wpcf7-submit newsletter_submit" id="newsletter_submit" /></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+
+<!--
+
+<p>Enter your email to subscribe to our newsletter:</p>
+<iframe style="border: 0;" src="https://go.pardot.com/l/367681/2017-11-26/y6kj" width="100%" height="120" frameborder="0"></iframe>
+
+-->
+				</div> <!-- .et_pb_code_inner -->
+			</div> <!-- .et_pb_code --><ul class="et_pb_social_media_follow et_pb_module et_pb_bg_layout_light  et_pb_social_media_follow_0 clearfix">
+				
+				
+				<li class="et_pb_social_icon et_pb_social_network_link et-social-twitter et_pb_social_media_follow_network_0">
+				<a href="https://twitter.com/Burning_Glass" class="icon et_pb_with_border" title="Twitter" target="_blank"><span class="et_pb_social_media_follow_network_name">Twitter</span></a>
+				
+			</li><li class="et_pb_social_icon et_pb_social_network_link et-social-linkedin et_pb_social_media_follow_network_1">
+				<a href="https://www.linkedin.com/company/burning-glass-technologies" class="icon et_pb_with_border" title="LinkedIn" target="_blank"><span class="et_pb_social_media_follow_network_name">LinkedIn</span></a>
+				
+			</li>
+			</ul> <!-- .et_pb_counters --><div class="et_pb_module et_pb_posts et_pb_bg_layout_light  et_pb_blog_0">
+				
+				
+				<div class="et_pb_ajax_pagination_container">
+					
+			<article id="post-12349" class="et_pb_post clearfix post-12349 post type-post status-publish format-standard has-post-thumbnail hentry category-labor-market category-technology tag-artificial-intelligence tag-automation tag-career-planning tag-economy tag-education tag-employers tag-future-of-work tag-job-growth tag-reskilling tag-skills tag-technology tag-upcredentialing tag-workforce-planning">
+
+										<a href="https://www.burning-glass.com/jobs-data-analysis-davos-shows-cheaper-reskill-rehire-workers-displaced-ai/" class="entry-featured-image-url">
+								<img src="https://www.burning-glass.com/wp-content/uploads/Training-Employees_550.jpg" alt='Jobs Data Analysis at Davos Shows It’s Cheaper to Reskill Than Rehire Workers Displaced by AI' width='1080' height='675' />															</a>
+					
+												<h2 class="entry-title"><a href="https://www.burning-glass.com/jobs-data-analysis-davos-shows-cheaper-reskill-rehire-workers-displaced-ai/">Jobs Data Analysis at Davos Shows It’s Cheaper to Reskill Than Rehire Workers Displaced by AI</a></h2>
+				
+				<p class="post-meta">  <span class="published">Jan 22, 2019</span>    |  0 Comments</p><div class="post-content"><p>A new Davos report using our data answers a basic question about technology and the future of work: in many cases, it’s cheaper to reskill workers than to hire new ones.</p>
+</div>			
+			</article> <!-- .et_pb_post -->
+	<div class="pagination clearfix">
+	<div class="alignleft"><a href="https://www.burning-glass.com/research-project/coding-skills/page/2/" >&laquo; Older Entries</a></div>
+	<div class="alignright"></div>
+</div></div> <!-- .et_pb_posts -->
+				</div>
+				 
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_3  et_pb_column_1 et_pb_specialty_column et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class=" et_pb_row_inner et_pb_row_inner_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_inner  et_pb_column_inner_0 et-last-child">
+				
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_0">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>Beyond Point and Click: The Expanding Demand for Coding Skills</h2>
+<p>We live in a digital world. Our phones, our cars, our banks, and our hospitals – nearly every aspect of our lives – depend on computer code. As a result, coding skills, or computer programming, are becoming core skill requirements for many well-paying jobs. Coding skills are in demand across a broad range of careers, not just for programmers. The ability not only to use but also to program software is often required of business people who work with data, of designers and marketers who create websites, of engineers who build products and technologies, and of scientists who conduct research.</p>
+<p>This report analyzes the job market demand for coding in order to highlight the breadth and magnitude of employer demand for these skills and the range of opportunities that learning to code can open for students. The intent of this research is to showcase for school counselors and K-12 students alike the importance of learning to code and the value these skills will have in the job market.</p>
+<p>The data contained in this report are drawn from 26 million U.S. online job postings collected in 2015 and have been analyzed to determine the specific jobs and skills that employers are seeking.</p>
+<p>The report was prepared for <a href="https://academy.oracle.com/en/oa-web-overview.html" target="_blank" rel="noopener">Oracle Academy</a>.</p>
+<p>Key findings of the report include:</p>
+<h3>Coding skills are in high demand</h3>
+<p>Seven million job openings in 2015 were in occupations which value coding. This corresponds to 20% of “career track” jobs, defined as those which pay a national living wage of at least $15 per hour.</p>
+<h3>Coding skills are not just for programmers</h3>
+<p>Coding skills are of value to candidates across five major job categories:</p>
+<ul>
+<li>Information Technology (IT) worker</li>
+<li>Data Analysts</li>
+<li>Artists and Designers</li>
+<li>Engineers</li>
+<li>Scientists</li>
+</ul>
+<h3>Coding jobs pay more</h3>
+<p>Jobs requiring coding skills pay $22,000 per year more than jobs that don’t: $84,000 vs $62,000 per year. (This analysis includes only “career track” jobs.)</p>
+<h3>Coding skills provide an avenue to high-income jobs</h3>
+<p>Half of jobs in the top income quartile (&gt;$57,000 per year) are in occupations which commonly require coding skills from job applicants.</p>
+<h3>Coding jobs are growing faster than the job market</h3>
+<p>Programming jobs are growing fastest, 50% faster than the market overall. In general, programming jobs are growing 12% faster than the market average.</p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_1 et_pb_divider_position_"><div class="et_pb_divider_internal"></div></div><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_blurb_3 et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/wp-content/uploads/Beyond_Point_Click_final.pdf" target="_blank"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top" style="color: #e56e21;"></span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/wp-content/uploads/Beyond_Point_Click_final.pdf" target="_blank">Download Report</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>Full Report</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_blurb_4 et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://blogs.oracle.com/TheOracleBlog/coding-skills-aren%E2%80%99t-just-for-programmers" target="_blank"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top" style="color: #e56e21;"></span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://blogs.oracle.com/TheOracleBlog/coding-skills-aren%E2%80%99t-just-for-programmers" target="_blank">Oracle Blog</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>Coding Skills Aren’t Just for Programmers</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_blurb_5 et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://www.fastcompany.com/3060883/the-future-of-work/why-coding-is-the-job-skill-of-the-future-for-everyone" target="_blank"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top" style="color: #e56e21;"></span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="http://www.fastcompany.com/3060883/the-future-of-work/why-coding-is-the-job-skill-of-the-future-for-everyone" target="_blank">Fast Company</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>Why Coding Is Still The Most Important Job Skill Of The Future</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_blurb_6 et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="http://www.usnews.com/news/articles/2016-06-08/coding-isnt-just-for-coders-anymore" target="_blank"><span class="et_pb_image_wrap"><span class="et-pb-icon et-waypoint et_pb_animation_top" style="color: #e56e21;"></span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="http://www.usnews.com/news/articles/2016-06-08/coding-isnt-just-for-coders-anymore" target="_blank">U.S. News and World Report</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>Coding Isn&#8217;t Just for Coders Anymore</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row_inner -->
+			</div> <!-- .et_pb_column -->
+				</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_section_regular">
+				
+				
+				
+				
+					<div class=" et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_2 et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_2 et_pb_divider_position_"><div class="et_pb_divider_internal"></div></div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class='post_tags_container'>Tags:<div class="post_tags"><a href='https://www.burning-glass.com/project_tag/careers/' title='careers Tag' class='careers'>careers</a>, <a href='https://www.burning-glass.com/project_tag/coding/' title='coding Tag' class='coding'>coding</a>, <a href='https://www.burning-glass.com/project_tag/hybrid-jobs/' title='hybrid jobs Tag' class='hybrid-jobs'>hybrid jobs</a>, <a href='https://www.burning-glass.com/project_tag/it/' title='IT Tag' class='it'>IT</a>, <a href='https://www.burning-glass.com/project_tag/job-market/' title='Job Market Content Tag' class='job-market'>Job Market Content</a>, <a href='https://www.burning-glass.com/project_tag/programming/' title='programming Tag' class='programming'>programming</a>, <a href='https://www.burning-glass.com/project_tag/skills/' title='skills Tag' class='skills'>skills</a>, <a href='https://www.burning-glass.com/project_tag/software-development/' title='software development Tag' class='software-development'>software development</a></div></div><div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-url="https://www.burning-glass.com/research-project/coding-skills/" data-a2a-title="Coding Skills"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.burning-glass.com%2Fresearch-project%2Fcoding-skills%2F&amp;linkname=Coding%20Skills" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></div></div>					</div> <!-- .entry-content -->
+
+				
+				
+				</article> <!-- .et_pb_post -->
+
+						
+
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="text-7" class="fwidget et_pb_widget widget_text"><h4 class="title">Contact</h4>			<div class="textwidget"><p>Burning Glass Technologies<br />
+66 Long Wharf | Floor 2<br />
+Boston, MA 02110 USA<br />
++1 (617) 227 4800</p>
+<p>&copy;2021 All Rights Reserved</p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-3" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Segments &#038; Solutions</h4><div class="menu-segments-solutions-menu-container"><ul id="menu-segments-solutions-menu" class="menu"><li id="menu-item-10398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10398"><a href="https://www.burning-glass.com/solutions/education/">Education</a></li>
+<li id="menu-item-8109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8109"><a href="https://www.burning-glass.com/solutions/corporations/">Business</a></li>
+<li id="menu-item-10397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10397"><a href="https://www.burning-glass.com/solutions/government-and-workforce/">Government</a></li>
+<li id="menu-item-10400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10400"><a href="https://www.burning-glass.com/solutions/recruiting-and-staffing/">Recruiting</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-2" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Quick Links</h4><div class="menu-about-menu-container"><ul id="menu-about-menu" class="menu"><li id="menu-item-12677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-12677"><a href="https://www.burning-glass.com/">Home</a></li>
+<li id="menu-item-1379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1379"><a href="https://www.burning-glass.com/about/">About Us</a></li>
+<li id="menu-item-14316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14316"><a href="https://www.burning-glass.com/contact/">Contact Us</a></li>
+<li id="menu-item-1380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1380"><a href="https://www.burning-glass.com/blog/">Blog</a></li>
+<li id="menu-item-1382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1382"><a href="https://www.burning-glass.com/privacy/">Privacy</a></li>
+</ul></div></div> <!-- end .fwidget --><div id="a2a_follow_widget-2" class="fwidget et_pb_widget widget_a2a_follow_widget"><div class="a2a_kit a2a_kit_size_34 a2a_follow addtoany_list"><a class="a2a_button_facebook" href="https://www.facebook.com/Burning-Glass-Technologies-160957023926436" title="Facebook" rel="noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://twitter.com/burning_glass" title="Twitter" rel="noopener" target="_blank"></a><a class="a2a_button_linkedin_company" href="https://www.linkedin.com/company/burning-glass-technologies" title="LinkedIn Company" rel="noopener" target="_blank"></a><a class="a2a_button_youtube" href="https://www.youtube.com/channel/UCYqNh-cu9yotVpU3q0sAzrQ?" title="YouTube" rel="noopener" target="_blank"></a></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="custom_html-5" class="widget_text fwidget et_pb_widget widget_custom_html"><h4 class="title">Newsletter</h4><div class="textwidget custom-html-widget"><div role="form" class="wpcf7" id="wpcf7-f11229-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/research-project/coding-skills/#wpcf7-f11229-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="11229" />
+<input type="hidden" name="_wpcf7_version" value="5.3.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f11229-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<p>Get the Latest Insights from Burning Glass delivered straight to your inbox.</p>
+<p><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Enter Email Address" /></span><span id="wpcf7-601ca08906a34" class="wpcf7-form-control-wrap footer-NL-HP-wrap" style="display:none !important; visibility:hidden !important;"><label  class="hp-message">Please leave this field empty.</label><input class="wpcf7-form-control wpcf7-text"  type="text" name="footer-NL-HP" value="" size="40" tabindex="-1" autocomplete="nope" /></span></p>
+<p class="recaptcha-badge">This site is protected by reCAPTCHA and the Google<br><br />
+<a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.</p>
+<p><input type="submit" value="SUBSCRIBE" class="wpcf7-form-control wpcf7-submit newsletter_submit" id="newsletter_submit" /></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+
+<!--
+
+<p>Enter your email to subscribe to our newsletter:</p>
+<iframe style="border: 0;" src="https://go.pardot.com/l/367681/2017-11-26/y6kj" width="100%" height="120" frameborder="0"></iframe>
+
+--></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/Burning_Glass" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+
+</ul>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+			<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+			<script type="text/javascript">
+		var et_animation_data = [{"class":"et_pb_image_0","style":"slideLeft","repeat":"once","duration":"500ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+	</script>
+	<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-562318-2">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-562318-2');
+</script>
+
+<link rel='stylesheet' id='mediaelement-css'  href='https://www.burning-glass.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.burning-glass.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/themes/BurningGlass2/js/jquery.cookie.js?ver=5.5.3' id='cookies-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/themes/BurningGlass2/js/tabs.js?ver=5.5.3' id='tabs-js'></script>
+<script type='text/javascript' id='geotarget-js-extra'>
+/* <![CDATA[ */
+var geot = {"ajax_url":"https:\/\/www.burning-glass.com\/wp-admin\/admin-ajax.php","ajax":"","is_archives":"","is_search":"","is_singular":"1","is_page":"","is_single":"1","dropdown_search":"","dropdown_redirect":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/geotargeting-pro/public/js/geotarget-public.js?ver=2.6.1.1' id='geotarget-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/geotargeting-pro/public/js/min/selectize.min.js?ver=2.6.1.1' id='geot-slick-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/tabs-pro/assets/js/bootstrap.js?ver=5.5.3' id='wpsm_tabs_pro_bootstrap-js-front-js'></script>
+<script type='text/javascript' id='wpcf7-redirect-script-js-extra'>
+/* <![CDATA[ */
+var wpcf7r = {"ajax_url":"https:\/\/www.burning-glass.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/wpcf7-redirect/build/js/wpcf7-redirect-frontend-script.js?ver=1.1' id='wpcf7-redirect-script-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcBpokUAAAAACChBNkjBmYv0wojHz5_wOwz770l&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcBpokUAAAAACChBNkjBmYv0wojHz5_wOwz770l","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.burning-glass.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.burning-glass.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.burning-glass.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"1efcf94f8b","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"e307bfd229","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"2673","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/themes/Divi/js/custom.min.js?ver=3.0.105' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/themes/Divi/core/admin/js/common.js?ver=3.0.105' id='et-core-common-js'></script>
+<script type='text/javascript' id='ubermenu-js-extra'>
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","collapse_after_scroll":"on","v":"3.3.1.1","configurations":["main"],"ajax_url":"https:\/\/www.burning-glass.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.burning-glass.com\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","aria_role_navigation":"off","aria_expanded":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","theme_locations":{"primary-menu":"Primary Menu","secondary-menu":"Secondary Menu","footer-menu":"Footer Menu"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.3.1.1' id='ubermenu-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.5.3' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.5.3' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='https://www.burning-glass.com/wp-content/plugins/pardot/js/asyncdc.min.js?ver=5.5.3' id='pddc-js'></script>
+<style id="et-builder-module-design-cached-inline-styles">div.et_pb_section.et_pb_section_0{background-image:url(https://burningglass.com/wp-content/uploads/Blue_Code_1300x866.png)!important}.et_pb_section_0.et_pb_section{background-color:#23282d!important}.et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_fullwidth_header_container .header-content{max-width:100%}.et_pb_image_0{margin-left:0}.et_pb_divider_0:before{border-top-color:#eeeeee}.et_pb_divider_1:before{border-top-color:#f2f2f2}.et_pb_blurb_4 .et_pb_main_blurb_image .et_pb_image_wrap{max-width:100%}.et_pb_blurb_5 .et_pb_main_blurb_image .et_pb_image_wrap{max-width:100%}.et_pb_blurb_6 .et_pb_main_blurb_image .et_pb_image_wrap{max-width:100%}.et_pb_section_2{padding-top:0px;padding-right:0px;padding-bottom:15px;padding-left:0px}.et_pb_row_0.et_pb_row{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_divider_2:before{border-top-color:#f2f2f2}.et_pb_divider_2{height:0px}.et_pb_social_media_follow_network_0 a.icon{background-color:#00aced!important}.et_pb_social_media_follow_network_1 a.icon{background-color:#007bb6!important}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_divider_0{display:none!important}.et_pb_divider_1{display:none!important}.et_pb_divider_2{display:none!important}}@media only screen and (max-width:767px){.et_pb_divider_0{display:none!important}.et_pb_divider_1{display:none!important}.et_pb_divider_2{display:none!important}}</style>
+		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it. Please review our <a href="/privacy/">privacy policy</a>.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button" aria-label="Accept">Accept</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Accept"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --><script type='text/javascript'>
+document.tidioChatCode = "gj6u41mdf6tbjtaoasnvdzu2nspwtihe";
+(function() {
+  function asyncLoad() {
+    var tidioScript = document.createElement("script");
+    tidioScript.type = "text/javascript";
+    tidioScript.async = true;
+    tidioScript.src = "//code.tidio.co/gj6u41mdf6tbjtaoasnvdzu2nspwtihe.js";
+    document.body.appendChild(tidioScript);
+  }
+  if (window.attachEvent) {
+    window.attachEvent("onload", asyncLoad);
+  } else {
+    window.addEventListener("load", asyncLoad, false);
+  }
+})();
+</script>	
+	</body>
+</html>
