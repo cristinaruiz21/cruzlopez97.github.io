@@ -1,5 +1,5 @@
 import React from "react";
-import Picture from "../../images/Cruz1.jpg";
+import Picture from "../../images/Cruz11.jpg";
 
 
 function AboutPic() {
