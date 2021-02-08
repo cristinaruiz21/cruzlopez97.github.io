@@ -11,9 +11,21 @@ function Navbar() {
     </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
-          <li className="nav-item">
+        <li className="nav-item">
             <Link
               to="/"
+              className={
+                window.location.pathname === "/" || window.location.pathname === "/home"
+                  ? "nav-link active"
+                  : "nav-link"
+              }
+            >
+              Home
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link
+              to="/about"
               className={
                 window.location.pathname === "/" || window.location.pathname === "/about"
                   ? "nav-link active"

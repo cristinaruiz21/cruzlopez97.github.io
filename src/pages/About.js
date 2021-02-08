@@ -2,7 +2,7 @@ import React from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import ProfPic from "../components/ProfPic";
+import AboutPic from "../components/AboutPic";
 
 function About() {
   return (
@@ -11,7 +11,7 @@ function About() {
         <h1>About Me</h1>
             <Row>
                 <Col size="md-4 offset-md-2">
-                    <ProfPic/>
+                    <AboutPic/>
                 </Col>
                 <Col size="md-6">
                     <p className="about">
