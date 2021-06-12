@@ -15,6 +15,13 @@ function Card() {
           <a href="https://github.com/Primes512/InventoryManagement" target="_blank">GitHub Repo</a>
         </Button>
       </div>
+      <div className="card">
+        <a href="https://github.com/Primes512/FriendsRandomMovieGenerator" target="_blank" className="link-text">Friends Random Movie Generator</a>
+        <img src={Code} className="img-thumbnail2" alt="moviegenerator"/>
+        <Button className="btn btn-primary btn-lg app" id="git">
+          <a href="https://github.com/Primes512/FriendsRandomMovieGenerator" target="_blank">GitHub Repo</a>
+        </Button>
+      </div>
       </Row>
     </div>
   );
